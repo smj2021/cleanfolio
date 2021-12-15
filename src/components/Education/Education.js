@@ -1,5 +1,6 @@
 import uniqid from 'uniqid'
 import { educations } from '../../portfolio'
+import EducationContainer from '../EducationContainer/EducationContainer'
 import './Education.css'
 
 const Educations = () => {

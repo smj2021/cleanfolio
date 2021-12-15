@@ -21,6 +21,7 @@ const App = () => {
         <About />
         <Projects />
         <Skills />
+        <Education />
         <Contact />
       </main>
 
