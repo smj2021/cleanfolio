@@ -47,7 +47,7 @@ const projects = [
       'PUMP is a Python and Django web application which allows users to securely create and manage fitness routines and nutrition plans from their desktop or mobile device. Data storage is performed by the integration of a PostgreSQL database.',
     stack: ['Python', 'Django', 'PostgreSQL','HTML5', 'CSS3', 'Bootstrap'],
     sourceCode: 'https://github.com/fattony26/workout-city',
-    livePreview: 'https://workoutcity.herokuapp.com/?next=/workouts/',
+    livePreview: 'https://workoutcity.herokuapp.com/',
   },
   {
     name: 'Anime City',
