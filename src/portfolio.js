@@ -17,6 +17,27 @@ const about = {
   },
 }
 
+const educations = [
+  // all props are optional
+  {
+    school: 'General Assembly',
+    degree: 'Software Engineering Immersive Certificate',
+    year: '2021',
+  },
+  {
+  school: 'American University, School of International Service',
+  degree: 'M.A. International Peace and Conflict Resolution',
+  year: '2012',
+  },
+  {
+    school: 'University of Pittsburgh',
+    degree: 'B.A. Political Science (Cum Laude)',
+    year: '2009',
+  }
+]
+
+const experience = []
+
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
@@ -71,4 +92,4 @@ const contact = {
   email: 'mjschwartz515@gmail.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, educations, experience, projects, skills, contact }
