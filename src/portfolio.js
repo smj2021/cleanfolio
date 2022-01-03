@@ -42,6 +42,14 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Cal Count',
+    description:
+      'Cal Count is a Python and Django web application I built as an addition to my team project, Workout City (PUMP). Data storage is performed by the integration of a PostgreSQL database.',
+    stack: ['Python', 'Django', 'PostgreSQL','HTML5', 'CSS3', 'Bootstrap'],
+    sourceCode: 'https://github.com/smj2021/CalCount',
+    livePreview: 'Not yet deployed',
+  },
+  {
     name: 'PUMP',
     description:
       'PUMP is a Python and Django web application which allows users to securely create and manage fitness routines and nutrition plans from their desktop or mobile device. Data storage is performed by the integration of a PostgreSQL database.',
