@@ -10,7 +10,7 @@ const about = {
   role: 'Full Stack Software Engineer',
   description:
     "I'm a problem solver; driven to create stunning, functional, enjoyable user interactions. I leverage my past as an intelligence officer, diplomat, and consulting manager to elicit user stories, then wireframe and map requirements to industry best practices using my training in human-centered design. I love to collaborate, share ideas, and work holistically to build resilient, scalable, engaging solutions to client challenges.",
-  resume: 'https://schwartzbewithyou.com/wp-content/uploads/2021/12/Michael-Schwartz-CV.pdf',
+  resume: 'https://schwartzbewithyou.com/wp-content/uploads/2022/04/MSchwartzCVTech.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/schwartzbewithyou/',
     github: 'https://github.com/smj2021',
