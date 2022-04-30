@@ -25,7 +25,7 @@
       "eject": "react-scripts eject",
       "lint": "eslint .",
       "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
-      "deploy": "gh-pages -b main -d build"
+      "deploy": "gh-pages -d build"
    },
    "browserslist": {
       "production": [
